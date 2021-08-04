@@ -1,5 +1,5 @@
 # Steps
-- cd app folder
+- cd app
 - docker build . -t app:latest
 - cd ..
 - docker-compose up
