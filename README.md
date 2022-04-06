@@ -1,4 +1,4 @@
-# Steps
+## Steps
 - cd app
 - docker build . -t app:latest
 - cd ..
